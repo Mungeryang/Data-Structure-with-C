@@ -1,0 +1,4 @@
+﻿  main.cpp
+F:\C语言练习\Data Struct\队列\main.cpp(49,11): warning C4101: “m”: 未引用的局部变量
+F:\C语言练习\Data Struct\队列\main.cpp(48,7): warning C4101: “ret”: 未引用的局部变量
+  队列.vcxproj -> F:\C语言练习\Data Struct\BigO\Debug\队列.exe

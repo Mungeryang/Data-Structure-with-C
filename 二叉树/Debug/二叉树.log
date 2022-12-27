@@ -1,0 +1,9 @@
+﻿  main.cpp
+F:\C语言练习\Data Struct\二叉树\main.cpp(64,17): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+F:\C语言练习\Data Struct\二叉树\main.cpp(64,17): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+F:\C语言练习\Data Struct\二叉树\main.cpp(64,17): message : 缺失的可变参数 2 为格式字符串“%c”所需
+F:\C语言练习\Data Struct\二叉树\main.cpp(64,17): message : 此参数用作缓冲区大小
+F:\C语言练习\Data Struct\二叉树\main.cpp(59,12): warning C4101: “pos”: 未引用的局部变量
+F:\C语言练习\Data Struct\二叉树\main.cpp(59,9): warning C4101: “j”: 未引用的局部变量
+F:\C语言练习\Data Struct\二叉树\main.cpp(59,6): warning C4101: “i”: 未引用的局部变量
+  二叉树.vcxproj -> F:\C语言练习\Data Struct\BigO\Debug\二叉树.exe

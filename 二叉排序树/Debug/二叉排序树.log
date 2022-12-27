@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\C语言练习\Data Struct\二叉排序树\main.cpp(68,5): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+F:\C语言练习\Data Struct\二叉排序树\main.cpp(39): warning C4715: “Insert_BST”: 不是所有的控件路径都返回值
+F:\C语言练习\Data Struct\二叉排序树\main.cpp(80): warning C4715: “BST_Search”: 不是所有的控件路径都返回值
+  二叉排序树.vcxproj -> F:\C语言练习\Data Struct\BigO\Debug\二叉排序树.exe
